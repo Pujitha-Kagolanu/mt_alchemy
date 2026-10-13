@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870474038175",
+    "project_id": "mt-alchemy-client",
+    "storage_bucket": "mt-alchemy-client.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870474038175:android:d1805f0ade71a4ed28dbaa",
+        "android_client_info": {
+          "package_name": "com.example.mt_alchemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD78cdv9v8tQcZqsc61UprZGdvyNmezPoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
